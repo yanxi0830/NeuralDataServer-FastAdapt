@@ -1,6 +1,7 @@
 # NeuralDataServer-FastAdapt
 This repo contains standalone scripts for the fast adaptation module that can be used off-the-shelf to generate transfer performance. 
 
+## Prerequisite
 Running the scripts assumes a directory `[PATH/TO/CLIENT/DATASET]` containing images of the client dataset, 
 and a directory `[PATH/TO/DOWNLOADED/EXPERT/MODELS]` containing pre-trained weights of expert models. 
 
